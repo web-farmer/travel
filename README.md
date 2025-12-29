@@ -75,12 +75,4 @@ travel.war：是项目打包之后的war包，或者直接导入war包即可
 
 ---
 
-###  github地址
-
-github：https://github.com/wei-zone/travel
-
-个人博客：https://blog.csdn.net/WEIGUO19951107
-
----
-
 **编码不易，感谢github留下您的star**
